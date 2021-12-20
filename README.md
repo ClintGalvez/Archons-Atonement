@@ -1,2 +1,2 @@
 # Archons-Atonement
-Game made in highschool
+Solo top-down dungeon crawler game made during highschool
